@@ -1,0 +1,14 @@
+D:\Коды\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.exe
+D:\Коды\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.deps.json
+D:\Коды\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.runtimeconfig.json
+D:\Коды\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.dll
+D:\Коды\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.pdb
+D:\Коды\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Коды\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.AssemblyInfoInputs.cache
+D:\Коды\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.AssemblyInfo.cs
+D:\Коды\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\Коды\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.dll
+D:\Коды\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\refint\ConsoleApp11.dll
+D:\Коды\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.pdb
+D:\Коды\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.genruntimeconfig.cache
+D:\Коды\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ref\ConsoleApp11.dll
